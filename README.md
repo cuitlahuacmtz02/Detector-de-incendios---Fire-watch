@@ -1,4 +1,4 @@
-Este Proyecto tiene como objetivo el desarrollo de un sistema embebido para detectar incendios en tiempo real, utilizando sensores de temperatura y humo, y enviando alertas .
+Este Proyecto tiene como objetivo el desarrollo de un sistema embebido para detectar incendios en tiempo real, utilizando sensores de temperatura, IR y humo, con la finalidad de  enviar alertas .
 
 Contenidos:
 hardware - Esquemáticos, diagramas, y archivos de diseño del circuito
